@@ -1,1 +1,3 @@
-*.in
+*.DS_store
+
+/unsolved
